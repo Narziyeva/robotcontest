@@ -10,6 +10,8 @@ public class Robo2 {
 
         Scanner sc = new Scanner(new File("src/main/java/org/example/robo2/input.txt"));
         PrintWriter pw = new PrintWriter("src/main/java/org/example/robo2/output.txt");
+
+
         int A = sc.nextInt();
         int B = sc.nextInt();
 
